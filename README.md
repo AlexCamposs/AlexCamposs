@@ -64,5 +64,5 @@ Contributed to the development of an AI-powered educational platform for higher 
 
 ## 📫 Contact
 
-* LinkedIn: (https://www.linkedin.com/in/alex-campos-do-nascimento-637248292/)
+* LinkedIn: [Alex Campos do Nascimento](https://www.linkedin.com/in/alex-campos-do-nascimento-637248292/)
 * Email: [alex_cn2001@hotmail.com](mailto:alex_cn2001@hotmail.com)
