@@ -1,6 +1,6 @@
 # Hi, I'm Alex Campos 👋
 
-Computer Science student at the Federal University of Uberlândia (UFU) passionate about software development, artificial intelligence and problem solving.
+Computer Science graduate from the Federal University of Uberlândia (UFU) passionate about software development, artificial intelligence and problem solving.
 
 ## 🚀 About Me
 
